@@ -1,1 +1,12 @@
 /* css styles */
+
+/* Open navbar dropdowns on hover on desktop */
+@media (hover: hover) and (pointer: fine) {
+  .navbar .dropdown:hover > .dropdown-menu {
+    display: block;
+  }
+
+  .navbar .dropdown > .dropdown-menu {
+    margin-top: 0;
+  }
+}

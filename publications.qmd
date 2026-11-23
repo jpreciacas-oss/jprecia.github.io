@@ -1,0 +1,108 @@
+---
+title: "Publications"
+format: html
+toc: true
+toc-title: "On this page"
+---
+
+## Peer-Reviewed Journal Articles
+
+1. Orozco, M., **Preciado, J.**, Martinez-Arguelles, G., Fuentes, L., Walubutia, L.F., Polo-Mendoza, R. (2024). Influence of three different antistripping agents on moisture susceptibility, stiffness, and rutting resistance of hot mix asphalt. *Buildings*, 14(8). [DOI](https://doi.org/10.3390/buildings14082458)
+
+2. **Preciado, J.**, Gulzar, S., Fried, A., Castorena, C., Underwood, B.S., Habbouche, J., Boz, I. (2024). Low-Temperature Performance Evaluation of Recycled Binder Blends for Assessing Recycling Agents’ Acceptance. *Journal of Materials in Civil Engineering, 36*(9), 04024257. [DOI](https://doi.org/10.1061/JMCEE7.MTENG-176)
+
+3. **Preciado, J.**, Gulzar, S., Castorena, C., Underwood, B.S., Habbouche, J., Boz, I. (2024). Performance Assessment of High RAP Asphalt Mixtures with Recycling Agents. *Transportation Research Record: Journal of the Transportation Research Board*, 2678(10), 1205–1220. [DOI](https://doi.org/10.1177/03611981241236483)
+
+4. Isied, M., Mocelin, D., **Preciado, J.**, Vestena, P., Underwood, B.S., Kim, R., Castorena, C. (2024). Mechanical Properties and Performance of High Recycled Content Mixtures Designed Using Alternative Approaches. *Transportation Research Record: Journal of the Transportation Research Board*, 2678(10), 1508–1522. [DOI](https://doi.org/10.1177/03611981241238228)
+
+5. Fried, A., Boz, I., **Preciado, J.**, Gulzar, S., Underwood, B.S., Castorena, C., Habbouche, J. (2024). Evaluation of Alternative Approaches to Restore the Rheology of Recycled Asphalt Binders. *Transportation Research Record: Journal of the Transportation Research Board*, 2678(10), 819–833. [DOI](https://doi.org/10.1177/03611981241235179)
+
+6. Gulzar, S., Xue, L., **Preciado, J.**, Fried, A., Castorena, C., Underwood, B.S., Habbouche, J., Boz, I. (2024). Phenomenological modeling of aging and rejuvenation on asphalt binder fatigue characteristics. *Construction and Building Materials*, 425, p. 135929. [DOI](https://doi.org/10.1016/j.conbuildmat.2024.135929)
+
+7. **Preciado, J.**, Gulzar, S., Fried, A., Castorena, C., Underwood, B.S., Habbouche, J., Boz, I. (2023). Benchmarking Recycled Binder Blends Using Statistical Analysis: A Case Study of Virginia and North Carolina. *Transportation Research Record: Journal of the Transportation Research Board*, 2678(3), 50–65. [DOI](https://doi.org/10.1177/03611981231178812)
+
+8. Gulzar, S., Fried, A., **Preciado, J.**, Castorena, C., Underwood, B.S., Habbouche, J., Boz, I. (2023). Towards Sustainable Roads: A State-of-the-Art Review on the Use of Recycling Agents in Recycled Asphalt Mixtures. *Journal of Cleaner Production*, 406, 136994. [DOI](https://doi.org/10.1016/j.jclepro.2023.136994)
+
+9. Fried, A., Xue, L.G., Gulzar, S., **Preciado, J.**, Underwood, B.S., Castorena, C. (2022). Evaluation of Recycling Agent and Extender Dosage Selection Procedures to Restore the High-Temperature Climatic Performance Grade. *Transportation Research Record: Journal of the Transportation Research Board*, 2676, 302–314. [DOI](https://doi.org/10.1177/03611981221074361)
+
+10. Habbouche, J., Boz, I., Underwood, B.S., Castorena, C., Gulzar, S., Fried, A., **Preciado, J.** (2022). Review From Multiple Perspectives for the State of the Practice on the Use of Recycled Asphalt Materials and Recycling Agents in Asphalt Concrete Surface Mixtures. *Transportation Research Record: Journal of the Transportation Research Board*, 2676, 407–420. [DOI](https://doi.org/10.1177/03611981211061130)
+
+## Conference Proceedings
+
+1. Ashtiani, A.Z., Parsons, T., **Preciado, J.**, Stache, J., and Tingle, J. New Cumulative Damage Factor Method for Airfield Rigid Pavement Design. Accepted for publication in the proceedings of *ASCE2027: The Infrastructure and Engineering Experience*.
+
+2. Kuchiisi, K., Habbouche, J., Boz, I., Castorena, C., Underwood, S., Turbay, E., **Preciado, J.**  Verification of Performance-Based Framework for the Use of Recycling Agents in Asphalt Surface Mixtures in Virginia: From Product Acceptance to Balanced Mix Design. Accepted for publication in the *2026 AMAP Inaugural Conference Proceedings*.
+
+3. Castro, A., Martínez-Arguelles, G., Fuentes, L., Bonicelli, A., **Preciado, J.**, Santos, J. (2019). Environmental and mechanical benefits of cold recycled bituminous mixes with crumb rubber. *Pavement and Asset Management*, pp. 477-484. CRC Press. [DOI](https://doi.org/10.1201/9780429264702)
+
+4. Bonicelli, A., **Preciado, J.**, Rueda, A., Duarte, A. (2019). Semi-flexible material: A solution for high-performance pavement infrastructures. *IOP Conference Series: Materials Science and Engineering*, Vol. 471, No. 3, p. 032062. IOP Publishing. [DOI](https://doi.org/10.1088/1757-899X/471/3/032062)
+
+5. Castro, A., **Preciado, J.**, Martinez-Arguelles, G., Fuentes, L., Dugarte, M. (2019) Mechanical properties of cold recycled bituminous mixes with crumb rubber. *IOP Conference Series: Materials Science and Engineering*, Vol. 471, No. 10, p. 102044. IOP Publishing. [DOI](https://doi.org/10.1088/1757-899X/471/10/102044)
+
+6. **Preciado, J.**, Martínez-Arguelles, G., Dugarte, M., Bonicelli, A., Cantero, J., Vega, D., Barros, Y. (2017). Improving mechanical properties of hot mix asphalt using fibres and polymers in developing countries. *IOP Conference Series: Materials Science and Engineering*, Vol. 245, No. 2, p. 022013. IOP Publishing. [DOI](https://doi.org/10.1088/1757-899X/245/2/022013)
+
+## Final Reports
+
+1. **Preciado, J.**, Lee, H., Ali, F. (2026). *Improve Modulus Determination Using Falling Weight Deflectometer*. FDOT Contract Number BEI75. Florida Department of Transportation. Gainesville, FL.
+
+2. **Preciado, J.**, Ali, F., Lee, H. (2026). *Enhancement of Traffic Control Tool for Reopening of Flooded Roadways*. FDOT Contract Number BEG81. Florida Department of Transportation. Gainesville, FL.
+
+3. **Preciado, J.**, Kim, D., Carroll, E. (2026). *Development of Rideability Specifications*. Final Report. South Carolina Department of Transportation. Research and Innovation Unit. Columbia, SC.
+
+4. Underwood, B.S., Castorena, C., Vestena, P., **Preciado, J.** (2025). *Balanced Asphalt Mix Design for North Carolina*. Final Report NC/2023-02. North Carolina Department of Transportation. Research and Development Unit. Raleigh, NC.
+
+5. Kuchiishi, K., Habbouche, J., Boz I., Castorena, C., Underwood, B.S., Turbay, E., **Preciado, J.** (2025). *Verification of Engineered Frameworks for Evaluating the Use of Recycling Agents in Surface Asphalt Mixtures*. Final Report 26-R09. Virginia Transportation Research Council, Charlottesville, VA.
+
+6. Underwood, B.S., Castorena, C., Goenaga, B., **Preciado, J.**, Rogers, P. (2024). *Evaluation of Macrotexture and Friction of Alternative Asphalt Surface Course Material*. Final Report FHWA/NC/2024-12. North Carolina Department of Transportation. Research and Development Unit, NC.
+
+7. Castorena, C., Fried, A., **Preciado, J.**, Gulzar, S., Aparicio, M., Xue, L. (2023). *Screening of Asphalt Extenders and Recycling Agents*. Final Report FHWA/NC/2026-16. North Carolina Department of Transportation. Research and Development Unit. Raleigh, NC.
+
+8. Habbouche, J., Boz I., Underwood B.S., Castorena, C., **Preciado, J.**, Gulzar, S., and Fried, A. (2023). *Engineered Frameworks for Evaluating the Use of Recycling Agents in Surface Asphalt Mixtures for Virginia*. Final Report 24-R3. Virginia Transportation Research Council, Charlottesville, VA.
+
+## Conference Presentations
+
+*An asterisk (\*) identifies the presenter.*
+
+1. Tiwari, A\*., Ansari, T., Chkaiban, R., **Preciado, J.**, Fritz, J., Casillas, S., Vaddy, P., Braham, A. (2027). Alternative Material Surface Treatment Applications For Full-Depth Reclamation. Accepted for presentation at *ASCE2027: The Infrastructure and Engineering Experience*. Philadelphia, PA.
+
+2. Ashtiani, A.Z\*., Parsons, T., **Preciado, J.**, Stache, J., and Tingle, J (2027). New Cumulative Damage Factor Method for Airfield Rigid Pavement Design. Accepted for presentation at *ASCE2027: The Infrastructure and Engineering Experience*. Philadelphia, PA.
+
+3. Lee, D\*., Hwang, J., Lee, H., Kim, Y., Tutumluer, E., Fritz, J., Ashtiani, A., **Preciado, J.**, Tingle, J., Koh, Y. (2027). Toward Reanalysis-Based Climatic Modeling for Pavement Design within the JEDI Platform: A Critical Review for Establishing Framework. Accepted for presentation at the 106th *Annual Meeting of the Transportation Research Board*, Washington, D.C.
+
+4. Koh, Y\*, Hwang, J., Lee, H., Kim, Y., Tutumluer, E., Fritz, J., Ashtiani, A., **Preciado, J.**, Tingle, J. (2027). Confidence Level-Based Sensitivity Analysis for Reliability of Airfield Pavement Design. Accepted for presentation at the 106th *Annual Meeting of the Transportation Research Board*, Washington, D.C.
+
+5. Chkaiban, R.\*, **Preciado, J.**, Rodriguez, J., Kachwalla, A. (2026).  Compatibility Between Pavement Surface Condition and Structural Capacity: A Case Study. *2026 ASCE T&DI Transportation Conference*. Detroit, MI. June 2026.
+
+6. **Preciado, J.**\*, Kim, D\* (2026). Historical rideability outcomes under SCDOT specification. *2026 Road Profilers Users’ Group Meeting*, Pittsburgh, P.A., May 2026.
+
+7. Gulzar, S\*., **Preciado, J.**, Fried, A., Castorena, C., Underwood, B. (2025). Mapping Aging Dynamics Across Recycled Asphalt Binder and Mixture Scales Containing Recycling Agents. *62nd Petersen Asphalt Research Conference*, Wyoming, July 2025.
+
+8. Gulzar, S.\*, **Preciado, J.**, Fried, A., Castorena, C., Underwood, B.S., Habbouche, J., Boz, I. (2024). Cross-scale aging dynamics of recycled asphalt binder blends and mixtures containing recycling agents. *104th Annual Meeting of The Transportation Research Board*, Washington, D.C., January 2025.
+
+9. **Preciado, J.**\*, Gulzar, S., Castorena, C., Underwood, B.S., Habbouche, J., Boz, I. (2024). Performance Assessment of High RAP Asphalt Mixtures with Recycling Agents. *103rd Annual Meeting of The Transportation Research Board*, Washington, D.C., January 2024.
+
+10. Isied, M.\*, Mocelin, D., **Preciado, J.**, Vestena, P., Underwood, B.S., Kim, R., Castorena, C. (2024). Mechanical Properties and Performance of High Recycled Content Mixtures Designed Using Alternative Approaches. *103rd Annual Meeting of The Transportation Research Board*, Washington, D.C., January 2024.
+
+11. Fried, A., Boz, I., **Preciado, J.**, Gulzar, S., Underwood, B.S., Castorena, C.\* (2024). Evaluation of Alternative Approaches to Restore the Rheology of Recycled Asphalt Binders. *103rd Annual Meeting of The Transportation Research Board*, Washington, D.C., January 2024.
+
+12. Gulzar, S.\*, Xue, L., **Preciado, J.**, Fried, A., Castorena, C., Underwood, B.S., Habbouche, J., Boz, I. (2024). Understanding the Impact of Aging and Rejuvenation on Asphalt Binder Fatigue Characteristics: An LAS-Test Based Performance Indices Analysis. *103rd Annual Meeting of The Transportation Research Board*, Washington, D.C., January 2024.
+
+13. Gulzar, S.\*, Fried, A., **Preciado, J.**, Underwood, B.S., Castorena, C. (2023). Rheological Modeling of Recycled Asphalt Binder Blends as Fluid Mixtures. *2023 ASCE Engineering Mechanics Institute Conference*, Atlanta, Georgia, June 2023.
+
+14. **Preciado, J.**\*, Gulzar, S., Fried, A., Habbouche, J., Boz, I., Castorena, C., Underwood, B.S. (2023). Benchmarking Recycled Binder Blends Using Statistical Analysis. *2023 North Carolina Research and Innovation Summit*, Raleigh, NC, March 2023.
+
+15. **Preciado, J.**\*, Gulzar, S., Fried, A., Habbouche, J., Boz, I., Castorena, C., Underwood, B.S. (2023). Benchmarking Recycled Binder Blends Using Statistical Analysis: A Case Study of Virginia and North Carolina. *102nd Annual Meeting of The Transportation Research Board*, Washington, D.C., January 2023.
+
+16. **Preciado, J.**\*, Gulzar, S., Fried, A., Habbouche, J., Boz, I., Castorena, C., Underwood, B.S. (2023). A Framework to Evaluate Recycling Agents Based on Low-Temperature Rheological Performance, *102nd Annual Meeting of The Transportation Research Board*. Washington, D.C., January 2023.
+
+17. Fried, A.\*, Xue, L.G., Gulzar, S., **Preciado, J.**, Underwood, B.S., Castorena, C. (2022). Evaluation of Recycling Agent and Extender Dosage Selection Procedures to Restore the High-Temperature Climatic Performance Grade, *101st Annual Meeting of The Transportation Research Board, Washington,* D.C., January 2022.
+
+18. Habbouche, J.\*, Boz, I., Underwood, B.S., Castorena, C., Gulzar, S., Fried, A., **Preciado, J.** (2022). State of the Practice on the Use of Recycled Asphalt Materials and Recycling Agents in Asphalt Concrete Surface Mixtures, *101st Annual Meeting of The Transportation Research Board*, Washington, D.C., January 2022.
+
+19. Castro, A., Martínez-Arguelles, G.\*, Fuentes, L., Bonicelli, A., **Preciado, J.**, Santos, J. (2017). Environmental and mechanical benefits of cold recycled bituminous mixes with crumb rubber. *World Conference on Pavement and Asset Management*, Baveno, Italy, June 2017.
+
+## Invited Talks
+
+1. Pavement Friction, Macrotexture, and Traffic Safety in South Carolina. *South Carolina Department of Transportation Research Topic Solicitation Forum*, Columbia, SC, October 15, 2026.
+
+2. Multiscale Characterization and Modeling of Recycled Asphalt Mixtures. *Association of Asphalt Pavement Technologists Webinar on Advancements in Airfield Pavements*, December 2024.

@@ -1,15 +1,40 @@
+
 project:
   type: website
   output-dir: docs
 
-
 website:
-  title: "jpreciaWebsite"
+  title: "Jaime Preciado"
+
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: background.qmd
+        text: Background
+      - href: publications.qmd
+        text: Publications
+      - text: Research
+        menu:
+          - text: Overview
+            href: research/index.qmd
+          - text: Sustainable Asphalt Materials
+            href: research/area1.qmd
+          - text: Multiscale Mechanics
+            href: research/area2.qmd
+          - text: Environmental Effects on Pavements
+            href: research/area3.qmd
+          - text: Functional Pavement Performance
+            href: research/area4.qmd
+          - text: Advacing ME Airfield Pavement Design
+            href: research/area5.qmd
+      - href: service.qmd
+        text: Service
+      - href: contact.qmd
+        text: Contact
+
+  page-footer:
+    center: "Built with [Quarto](https://quarto.org)"
 
 format:
   html:
@@ -18,6 +43,5 @@ format:
       - brand
     css: styles.css
     toc: true
-
 
 

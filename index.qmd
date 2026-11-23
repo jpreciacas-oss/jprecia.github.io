@@ -1,11 +1,22 @@
 ---
-title: "jpreciaWebsite"
+title: "Jaime Preciado"
+about:
+  template: jolla
+  image: images/avatar_casual.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/japreca/
 ---
 
-This is a Quarto website.
+*Research Civil Engineer*
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Applied Research Associates, Inc. | August 2025 - Present
 
-```{r}
-1 + 1
-```
+## Education
+
+Ph.D. in Civil Engineering, North Carolina State University | 2025
+
+M.Eng. in Civil Engineering, North Carolina State University | 2023
+
+B.S. in Civil Engineering, Universidad del Norte | 2019
