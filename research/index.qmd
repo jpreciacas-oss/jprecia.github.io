@@ -41,7 +41,9 @@ My research seeks to advance our understanding of pavement structures and materi
 2. Examining pavement infrastructure from a systems perspective, recognizing the interactions among materials, structures, loading, and the environment.
 3. Translating fundamental understanding into practical engineering decisions.
 
-To pursue this vision, my research combines experimental investigations, mechanistic and computational modeling, and statistical methods to examine pavement behavior across different length scales and under varying environmental conditions.
+To pursue this vision, my research combines experimental investigations, mechanistic and computational modeling, and statistical methods to examine pavement behavior across different length scales and under varying environmental conditions. Some of my research areas include:
+
+THIS IS STILL UNDER CONSTRUCTION - PRELIMINARY VERSION
 
 
 ## Sustainable Asphalt Materials
@@ -54,7 +56,7 @@ To pursue this vision, my research combines experimental investigations, mechani
 
 :::
 
-The increasing use of recycled materials in asphalt mixtures presents both opportunities and challenges for pavement sustainability. During my doctoral studies at North Carolina State University, I investigated how recycling agents (RAs) can restore the properties of aged asphalt binders and improve the performance of mixtures containing reclaimed asphalt pavement (RAP). Much of this work focused on understanding what makes an RA effective and how its effectiveness can be evaluated through performance-based criteria. My investigations covered both binder rheology and mixture performance, including the development of approaches for evaluating RA effectiveness and incorporating RAs into balanced mix design (BMD). The findings contributed to two performance-based frameworks developed to support the Virginia Department of Transportation's efforts to increase the responsible use of recycled asphalt materials.
+The increasing use of recycled materials in asphalt mixtures presents both opportunities and challenges for pavement sustainability. During my doctoral studies at North Carolina State University, I investigated how recycling agents (RAs) can restore the properties of aged asphalt binders and improve the performance of mixtures containing reclaimed asphalt pavement (RAP). Much of this work focused on understanding what makes an RA effective and how its effectiveness can be evaluated through performance-based criteria. My investigations covered both binder rheology and mixture performance, including the development of approaches for evaluating RA effectiveness and incorporating RAs into balanced mix design (BMD). The findings contributed to two performance-based frameworks developed to support the Virginia Department of Transportation's efforts to increase the responsible use of recycled asphalt materials. 
 
 [Learn more →](sustainable-materials.qmd)
 
@@ -76,7 +78,7 @@ Understanding how asphalt mixtures behave requires looking beyond their overall 
 
 ---
 
-## Environmental Effects on Pavement Structural Behavior and Performance
+## Environmental Effects on Pavement Structural Behavior and Performance 
 
 ::: {.research-section}
 
@@ -104,7 +106,7 @@ Pavement structures are constantly exposed to changing environmental conditions,
 
 :::
 
-Pavement performance involves more than structural capacity. Surface characteristics such as smoothness, friction, and texture also influence the experience and safety of road users. My work in this area includes a research project sponsored by the South Carolina Department of Transportation (SCDOT), where I investigated the relationship between pavement rideability specifications, long-term pavement performance, and life-cycle costs. The study involved the analysis of historical International Roughness Index (IRI) measurements, pavement deterioration modeling, and economic evaluations to examine the implications of construction smoothness requirements. The findings provided a quantitative basis for evaluating and refining pavement rideability specifications. Beyond smoothness, I am also interested in pavement friction and macrotexture, particularly their relationship with traffic safety and their potential incorporation into performance-based specifications and pavement management practices.
+Surface characteristics such as smoothness, friction, and texture also influence the experience and safety of road users. My work in this area includes a research project sponsored by the South Carolina Department of Transportation (SCDOT), where I investigated the relationship between pavement rideability specifications, long-term pavement performance, and life-cycle costs. The study involved the analysis of historical International Roughness Index (IRI) measurements, pavement deterioration modeling, and economic evaluations to examine the implications of construction smoothness requirements. The findings provided a quantitative basis for evaluating and refining pavement rideability specifications. Beyond smoothness, I am also interested in pavement friction and macrotexture, particularly their relationship with traffic safety and their potential incorporation into performance-based specifications and pavement management practices.
 
 [Learn more →](functional-performance.qmd)
 
